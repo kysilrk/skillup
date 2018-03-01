@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/kysilrm.iml" filepath="$PROJECT_DIR$/.idea/kysilrm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/skillup.iml" filepath="$PROJECT_DIR$/.idea/skillup.iml" />
     </modules>
   </component>
 </project>
-
