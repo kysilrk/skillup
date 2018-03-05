@@ -1,4 +1,39 @@
 @import url("https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700,800&subset=cyrillic");
+.background-form {
+  box-sizing: border-box;
+  background-color: #2c303c;
+  height: 760px;
+  font-family: 'Open Sans', sans-serif; }
+  .background-form .form h2 {
+    margin: 0;
+    padding: 75px 0 0 0;
+    font-size: 38px;
+    font-weight: bold;
+    color: #ffffff;
+    text-align: center; }
+  .background-form .form p {
+    margin: 0;
+    padding: 45px 170px 0 170px;
+    font-size: 14px;
+    font-weight: 500;
+    color: #5d6575;
+    text-align: center; }
+  .background-form .form form {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap; }
+    .background-form .form form .user-name input, .background-form .form form .user-email input, .background-form .form form .web-site input, .background-form .form form .telephone input {
+      margin: 25px 10px 0 10px;
+      padding: 0 0 0 25px;
+      height: 50px;
+      width: 500px;
+      border: 5px solid #ffffff;
+      background-color: #2c303c;
+      font-size: 14px;
+      font-weight: 600;
+      outline: 0;
+      outline-offset: 0; }
+
 .how-we-work .firstPart {
   padding-top: 70px;
   height: 535px;
