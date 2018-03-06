@@ -1,0 +1,36 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700);
+body,h2{margin:0;font-family:'Open Sans',sans-serif;font-size:14px}
+p{color:#7e889b}
+a{text-decoration:none}
+.what-we-do{display:flex;justify-content:center;width:100%;background:#2c303c}
+.what-we-do .inner_wrapper{display:flex;align-items:center;flex-direction:column;width:1200px}
+.what-we-do .inner_wrapper h2{color:#fff;text-align:center;font-size:38px;padding:70px 0 40px 0}
+.what-we-do .inner_wrapper p{text-align:center;padding:0 185px 100px 185px}
+.what-we-do .inner_wrapper .resume{display:flex;color:#7e889b;padding:150px 0;justify-content:center}
+.what-we-do .inner_wrapper .resume .items{margin:0;width:50%;display:flex;flex-direction:column;padding:30px 60px}
+.what-we-do .inner_wrapper .resume .items dt a{color:#fff;font-size:22px;background:#23c7c8;padding:7px;border-radius:5px}
+.what-we-do .inner_wrapper .resume .items dt .web_style{background:#8dc63f}
+.what-we-do .inner_wrapper .resume .items dt .seo_style{background:#fe476a}
+.what-we-do .inner_wrapper .resume .items dt .smm_style{background:#f6c13b}
+.what-we-do .inner_wrapper .resume .items dd{margin:40px 0 0}
+.what-we-do .inner_wrapper .resume .items dd span{color:#fff;font-size:22px}
+.what-we-do .inner_wrapper .resume .items dd .bottom{color:#252525;padding:8px 10px;background:#fff;margin-top:38px;border-radius:5px}
+.what-we-do .inner_wrapper .resume .img_box{margin-right:60px;width:50%;border-radius:100%;display:flex;align-items:center}
+.what-we-do .inner_wrapper .resume .img_box .laptop,.what-we-do .inner_wrapper .resume .img_box .seo{padding:10px;border:10px dotted #23c7c8;border-radius:50%;position:relative;margin-left:200px}
+.what-we-do .inner_wrapper .resume .img_box .seo{border:10px dotted #fe476a}
+.what-we-do .inner_wrapper .resume .img_box .design,.what-we-do .inner_wrapper .resume .img_box .smm{padding:10px;border:10px dotted #8dc63f;border-radius:50%;position:relative;margin-left:60px}
+.what-we-do .inner_wrapper .resume .img_box .smm{border:10px dotted #f6c13b}
+.what-we-do .inner_wrapper .resume .img_box .inner_laptop,.what-we-do .inner_wrapper .resume .img_box .inner_seo{margin-left:100px;width:165px;height:165px;border:10px solid #fff;border-radius:50%;position:absolute;background:#23c7c8}
+.what-we-do .inner_wrapper .resume .img_box .inner_seo{background:#fe476a}
+.what-we-do .inner_wrapper .resume .img_box .inner_design,.what-we-do .inner_wrapper .resume .img_box .inner_smm{margin-left:350px;width:185px;height:185px;border:10px solid #fff;border-radius:50%;position:absolute;background:#8dc63f}
+.what-we-do .inner_wrapper .resume .img_box .inner_smm{background:#f6c13b}
+.what-we-do .inner_wrapper .arrow{width:0;height:0;border-left:40px solid transparent;border-right:40px solid transparent;border-top:67px solid red;margin:115px 0 15px}
+.what-we-do .inner_wrapper .safari{background:url(../img/safari_frame.png) no-repeat;width:1008px;padding:5px 0 70px;display:flex;justify-content:flex-start;align-items:center;flex-direction:column}
+.what-we-do .inner_wrapper .safari p{font-size:13px;padding:0 0 32px 0;margin:0;color:#fff}
+.what-we-do .inner_wrapper .safari .tab{font-size:10px;align-self:flex-start;padding:3px 0 0 100px}
+.what-we-do .inner_wrapper .safari .tab span{padding:0 0 0 50px}
+.what-we-do .inner_wrapper .safari div{background:#424550 url(../img/icon_safari.png) 50% 20% no-repeat;width:998px;margin-top:5px;color:#fff;display:flex;justify-content:center;align-items:center;flex-direction:column}
+.what-we-do .inner_wrapper .safari div h2{font-size:62.38px;font-weight:600;padding:250px 0 0 0}
+.what-we-do .inner_wrapper .safari div h3{font-size:51.48px;font-weight:400;margin:0}
+.what-we-do .inner_wrapper .safari div p{font-size:33.27px;font-weight:300;padding:10px 0 40px 0}
+.what-we-do .inner_wrapper .safari div a{color:#000;font-size:24.95px;background:#fff;padding:20px 35px;border-radius:5px;margin-bottom:36px}
