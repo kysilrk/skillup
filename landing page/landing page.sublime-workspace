@@ -1,0 +1,663 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"pad",
+				"padding-top"
+			],
+			[
+				"ma",
+				"margin-top"
+			],
+			[
+				"fle",
+				"flex-end"
+			],
+			[
+				"fl",
+				"flex"
+			],
+			[
+				"ali",
+				"align-items"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"a",
+				"arrow"
+			],
+			[
+				"b",
+				"block"
+			],
+			[
+				"no",
+				"no-repeat"
+			],
+			[
+				"ba",
+				"background"
+			],
+			[
+				"m",
+				"margin"
+			],
+			[
+				"bo",
+				"border"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"fa",
+				"false"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"te",
+				"text-transform"
+			],
+			[
+				"l",
+				"left"
+			],
+			[
+				"fo",
+				"font-size"
+			],
+			[
+				"col",
+				"column"
+			],
+			[
+				"flex-",
+				"flex-start"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"inner",
+				"inner_smm"
+			],
+			[
+				"what",
+				"what-we-do"
+			],
+			[
+				"border",
+				"border-box"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"re",
+				"relative"
+			],
+			[
+				"ac",
+				"action\tAttr"
+			],
+			[
+				"tab",
+				"table"
+			],
+			[
+				"ta",
+				"table-cell"
+			],
+			[
+				"li",
+				"line-height"
+			],
+			[
+				"table",
+				"table-cell"
+			],
+			[
+				"blo",
+				"block"
+			],
+			[
+				"u",
+				"uppercase"
+			],
+			[
+				"background-",
+				"background-image"
+			],
+			[
+				"fon",
+				"font-family"
+			],
+			[
+				"tt",
+				"tt-u\ttext-transform: uppercase;"
+			],
+			[
+				"c",
+				"center"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"text",
+				"text-transform"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"po",
+				"position"
+			],
+			[
+				"d",
+				"display"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"backgro",
+				"background-image"
+			],
+			[
+				"font-",
+				"font-size"
+			],
+			[
+				"p",
+				"padding"
+			],
+			[
+				"al",
+				"alt\tAttr"
+			],
+			[
+				"h",
+				"h3\tTag"
+			],
+			[
+				"padd",
+				"padding-right"
+			],
+			[
+				"vrt",
+				"vertical-align"
+			],
+			[
+				"marg",
+				"margin-bottom"
+			],
+			[
+				"he",
+				"height"
+			],
+			[
+				"fi",
+				"first-child"
+			],
+			[
+				"ver",
+				"vertical-align"
+			],
+			[
+				"padding",
+				"padding-top"
+			],
+			[
+				"nav",
+				"navigator"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"poin",
+				"pointer-events"
+			],
+			[
+				"add",
+				"addClass"
+			],
+			[
+				"css",
+				"css3-prefix"
+			],
+			[
+				"list-sty",
+				"list-style-type"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "what-we-do.html",
+			"settings":
+			{
+				"buffer_size": 4137,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "styles/what-we-do.scss",
+			"settings":
+			{
+				"buffer_size": 7493,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "Package Control: ",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Disable Package"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 146.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/SkillUP/landing page",
+		"/D/SkillUP/landing page/styles"
+	],
+	"file_history":
+	[
+		"/D/SkillUP/garage/www/package.json",
+		"/D/SkillUP/garage/www/css/style.scss",
+		"/D/SkillUP/garage/www/css/stand_out.scss",
+		"/D/SkillUP/garage/www/js/common.js",
+		"/D/SkillUP/garage/www/css/happy_clients.scss",
+		"/D/SkillUP/garage/www/css/industries.scss",
+		"/D/SkillUP/garage/www/css/contacts.scss",
+		"/D/SkillUP/garage/www/css/footer.scss",
+		"/D/SkillUP/garage/www/css/style.css",
+		"/D/SkillUP/garage/www/css/header.scss",
+		"/D/SkillUP/garage/www/css/about_us.scss",
+		"/D/SkillUP/garage/www/slick/slick/slick-theme.css",
+		"/D/SkillUP/garage/www/slick/slick/slick.min.js",
+		"/D/SkillUP/garage/www/slick/.gitignore",
+		"/D/SkillUP/garage/www/css/our_blog.scss",
+		"/D/SkillUP/garage/www/slick/slick/slick.css",
+		"/D/SkillUP/garage/www/css/dots.scss",
+		"/D/SkillUP/garage/www/slick/slick/slick.js",
+		"/D/SkillUP/garage/www/slick/slick/slick-theme.scss",
+		"/D/SkillUP/garage/www/slick/README.markdown",
+		"/D/SkillUP/garage/www/slick/index.html",
+		"/D/SkillUP/landing page/styles/what-we-do.scss",
+		"/D/SkillUP/landing page/styles/style.css",
+		"/D/SkillUP/landing page/styles/what-we-do.css",
+		"/D/SkillUP/lending page/styles/what-we-do.css",
+		"/D/SkillUP/lending page/what-we-do.html",
+		"/D/SkillUP/garage/www/css/stund_out.scss",
+		"/G/garage/www/css/style.scss",
+		"/D/SkillUP/garage/www/index.html",
+		"/D/SkillUP/project_from_github/skillup/index.html",
+		"/D/SkillUP/garage/www/js/slide.js",
+		"/G/www_carousel/index.html",
+		"/D/SkillUP/www_office/css/style.css",
+		"/C/Users/Goga/AppData/Roaming/Sublime Text 3/Packages/User/Emmet.sublime-settings",
+		"/D/SkillUP/garage/www/css/variables.scss",
+		"/C/Users/Goga/AppData/Roaming/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+		"/C/Users/Goga/AppData/Roaming/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings",
+		"/C/Users/Goga/AppData/Roaming/Sublime Text 3/Packages/Emmet/Emmet.sublime-settings",
+		"/C/Users/Goga/AppData/Roaming/Sublime Text 3/Packages/Emmet/Default (Windows).sublime-keymap",
+		"/C/Users/Goga/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/D/SkillUP/garage/HW with SCSS 09_02_2018/index.html",
+		"/D/SkillUP/teacher_sass/variables.scss",
+		"/D/SkillUP/teacher_sass/nav.scss",
+		"/D/SkillUP/teacher_sass/main.scss",
+		"/D/SkillUP/garage/www/css/style.min.css",
+		"/G/HW_3 05_02_2018/index.html",
+		"/D/SkillUP/HW_3 upgrade/index.html",
+		"/D/SkillUP/HW_3 upgrade/css/style.css",
+		"/D/SkillUP/HW_3/css/bootstrap.min.css",
+		"/D/SkillUP/HW_3/index.html",
+		"/D/SkillUP/HW_3/css/style.css",
+		"/D/SkillUP/HW_1/style.css",
+		"/D/SkillUP/HW_1/index.html",
+		"/C/Users/Goga/Documents/CV/css/bootstrap.css",
+		"/C/Users/Goga/Documents/CV/css/style.css",
+		"/C/Users/Goga/Documents/CV/index.html",
+		"/C/Users/Goga/Documents/CV/CSS/bootstrap.css",
+		"/C/Users/Goga/Documents/CV/CSS/style.css",
+		"/D/karlsson/ofsi.ck1/www/pdf/style.sass",
+		"/D/karlsson/ofsi.ck1/www/pdf/index.html",
+		"/D/karlsson/motor.ck1/www/css/mixin.sass",
+		"/D/karlsson/motor.ck1/www/index.shtml",
+		"/D/karlsson/motor.ck1/www/ru/index.shtml",
+		"/D/karlsson/motor.ck1/www/css/style.sass",
+		"/D/karlsson/motor.ck1/www/js/scrollscreen.js",
+		"/D/karlsson/motor.ck1/www/js/common.js",
+		"/D/karlsson/EasyPHP-Devserver-17/eds-www/css/style.sass",
+		"/D/karlsson/EasyPHP-Devserver-17/eds-www/index.html",
+		"/C/Users/Goga/Documents/Site/Lviv-Ua+style.rar"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"img",
+			"url",
+			"@",
+			"ffac55",
+			"hr",
+			"draggable",
+			"slick-track",
+			"slick-list draggable",
+			"button",
+			"slick-prev",
+			"slick-arrow",
+			"slick-prev",
+			"current",
+			"slick-current",
+			"slick-acti",
+			"dots ",
+			".slick-dots ",
+			"slick-dots",
+			"img",
+			"flex",
+			"src",
+			"<img",
+			"<img>",
+			"img",
+			"#fff",
+			"#42de51",
+			"#16d428",
+			"#344256",
+			"calc",
+			"red",
+			"\t\t\t\t\t\t<",
+			"\t\t\t\t<",
+			"div",
+			"></",
+			"roboto",
+			"<dt>\n\t\t\t\t\t<dd></dd>\n\t\t\t\t</dt>",
+			"1170",
+			"read more",
+			"16d428",
+			"bottom",
+			"></",
+			"text-al",
+			"#918488",
+			"#00a6d3",
+			"#03b6e7",
+			".square-middle a",
+			"offset-md",
+			"@media",
+			"a:",
+			"<a>",
+			".a",
+			"li",
+			"col-md-offset",
+			"offset",
+			"col-md",
+			"offset-md",
+			"offset-md-2",
+			"<li>\n\t\t\n\t\t</li>",
+			"\t\t<",
+			"img",
+			".img",
+			".hidden",
+			"33",
+			"scrollthe",
+			"> spa",
+			"> sp",
+			"cons",
+			"noswip",
+			"h1",
+			"clouds",
+			"close",
+			"clouds",
+			"plane",
+			"clouds",
+			"plane",
+			"iphone",
+			"plane",
+			"clouds",
+			"plane",
+			"c00",
+			"fc0",
+			"f9",
+			"f60",
+			"pointe",
+			"body",
+			"pointer",
+			"html",
+			"cloud4",
+			"cloud",
+			"plane",
+			"anima",
+			"h1",
+			"    "
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"\t"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "what-we-do.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4137,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1220,
+								1220
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 190.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "styles/what-we-do.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7493,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								6196,
+								6196
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Sass/Syntaxes/SCSS.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 2923.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "landing page.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"D:\\SkillUP\\garage\\garage.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 254.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
