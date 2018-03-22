@@ -1,5 +1,5 @@
 @import url(https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700);
-body{font-family:'Open Sans',sans-serif}
+body{margin:0;font-family:'Open Sans',sans-serif}
 .what-we-do{display:flex;justify-content:center;width:100%;background:#2c303c}
 .what-we-do .inner_wrapper{display:flex;align-items:center;flex-direction:column;width:1200px}
 .what-we-do .inner_wrapper>:not(h2):not(p):not(.safari){position:relative;padding-top:135px}
