@@ -1,7 +1,5 @@
 @import url(https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700);
-body,h2{margin:0;font-family:'Open Sans',sans-serif;font-size:14px}
-p{color:#7e889b}
-a{text-decoration:none}
+body{font-family:'Open Sans',sans-serif}
 .what-we-do{display:flex;justify-content:center;width:100%;background:#2c303c}
 .what-we-do .inner_wrapper{display:flex;align-items:center;flex-direction:column;width:1200px}
 .what-we-do .inner_wrapper>:not(h2):not(p):not(.safari){position:relative;padding-top:135px}
@@ -31,7 +29,7 @@ a{text-decoration:none}
 .what-we-do .inner_wrapper{width:100%}
 }
 .what-we-do .inner_wrapper h2{color:#fff;text-align:center;font-size:38px;padding:70px 0 40px 0}
-.what-we-do .inner_wrapper p{text-align:center;padding:0 185px 0 185px}
+.what-we-do .inner_wrapper p{text-align:center;padding:0 185px 0 185px;color:#7e889b}
 @media screen and (max-width:1100px){
 .what-we-do .inner_wrapper p{width:90%;padding:0 15px 50px 15px;text-align:center}
 }
@@ -43,7 +41,7 @@ a{text-decoration:none}
 @media screen and (max-width:1100px){
 .what-we-do .inner_wrapper .resume .items{flex-direction:column;width:80%;padding:30px 30px}
 }
-.what-we-do .inner_wrapper .resume .items dt a{color:#fff;font-size:22px;background:#23c7c8;padding:7px;border-radius:5px}
+.what-we-do .inner_wrapper .resume .items dt a{color:#fff;font-size:22px;background:#23c7c8;padding:7px;border-radius:5px;text-decoration:none}
 .what-we-do .inner_wrapper .resume .items dt .web_style{background:#8dc63f}
 .what-we-do .inner_wrapper .resume .items dt .seo_style{background:#fe476a}
 .what-we-do .inner_wrapper .resume .items dt .smm_style{background:#f6c13b}
@@ -87,12 +85,12 @@ a{text-decoration:none}
 .what-we-do .inner_wrapper .safari div h2{font-size:62.38px;font-weight:600;padding:0;margin-top:70%}
 .what-we-do .inner_wrapper .safari div h2::before{content:'';background:url(../img/icon_safari.png) 50% 20% no-repeat;background-size:100%;display:block;margin:0 auto;width:2em;height:2em}
 .what-we-do .inner_wrapper .safari div h3{font-size:51.48px;font-weight:400;margin:0}
-.what-we-do .inner_wrapper .safari div p{font-size:33.27px;font-weight:300;padding:10px 0 40px 0}
-.what-we-do .inner_wrapper .safari div a{color:#000;font-size:24.95px;background:#fff;padding:20px 35px;border-radius:5px;margin-bottom:36px}
+.what-we-do .inner_wrapper .safari div p{font-size:33.27px;font-weight:300;padding:10px 0 40px 0;color:#7e889b}
+.what-we-do .inner_wrapper .safari div a{color:#000;font-size:24.95px;background:#fff;padding:20px 35px;border-radius:5px;margin-bottom:36px;text-decoration:none}
 @media screen and (max-width:1100px){
 .what-we-do .inner_wrapper .safari div{width:99%;align-items:center;justify-content:center}
 .what-we-do .inner_wrapper .safari div h2{font-size:6vw}
 .what-we-do .inner_wrapper .safari div h3{font-size:5vw}
-.what-we-do .inner_wrapper .safari div p{font-size:3vw;padding:10px 0 20px 0}
-.what-we-do .inner_wrapper .safari div a{font-size:4vw;padding:15px 20px}
+.what-we-do .inner_wrapper .safari div p{font-size:3vw;color:#7e889b;padding:10px 0 20px 0}
+.what-we-do .inner_wrapper .safari div a{font-size:4vw;padding:15px 20px;text-decoration:none}
 }
